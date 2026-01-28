@@ -1,4 +1,4 @@
-# Claude Skills
+# Agent Skills
 
 A collection of specialized skills for Claude and AI agents. Skills provide domain-specific expertise and context that AI assistants can load on-demand to deliver more accurate, consistent, and high-quality responses.
 
@@ -6,12 +6,12 @@ A collection of specialized skills for Claude and AI agents. Skills provide doma
 
 ```bash
 # Install all skills
-npx skills add Shohzod-Abdusamatov-7777777/claude-skills
+npx skills add Shohzod-Abdusamatov-7777777/agent-skills
 
 # Or install individual skills
-npx skills add Shohzod-Abdusamatov-7777777/claude-skills/skills/vue-expert
-npx skills add Shohzod-Abdusamatov-7777777/claude-skills/skills/vue-fsd
-npx skills add Shohzod-Abdusamatov-7777777/claude-skills/skills/tailwind-v4
+npx skills add Shohzod-Abdusamatov-7777777/agent-skills/skills/vue-expert
+npx skills add Shohzod-Abdusamatov-7777777/agent-skills/skills/vue-fsd
+npx skills add Shohzod-Abdusamatov-7777777/agent-skills/skills/tailwind-v4
 ```
 
 ## What are Skills?
